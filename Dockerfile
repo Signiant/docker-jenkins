@@ -1,4 +1,4 @@
-FROM jenkins:1.651.3
+FROM jenkins:latest
 COPY plugins.txt /plugins.txt
 
 RUN /usr/local/bin/plugins.sh /plugins.txt
