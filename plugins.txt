@@ -4,9 +4,8 @@ analysis-core
 ant
 antisamy-markup-formatter
 any-buildstep
-artifactdeployer
+artifactdeployer:0.33
 build-failure-analyzer
-build-flow-plugin
 build-pipeline-plugin
 build-timeout
 buildtriggerbadge
@@ -27,7 +26,7 @@ cvs
 discard-old-build
 docker-plugin
 durable-task
-dynamicparameter
+dynamicparameter:0.2.0
 email-ext
 envinject
 extended-choice-parameter
@@ -64,7 +63,7 @@ pam-auth
 parameterized-trigger
 plain-credentials
 postbuild-task
-postbuildscript
+postbuildscript:0.17
 project-description-setter
 promoted-builds
 publish-over-ssh
