@@ -73,7 +73,6 @@ scm-api
 scm-sync-configuration
 scp
 script-security
-scriptler
 slack
 sloccount
 ssh-agent
@@ -87,7 +86,6 @@ text-finder
 timestamper
 token-macro
 translation
-uno-choice
 versionnumber
 view-job-filters
 windows-slaves
