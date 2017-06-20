@@ -72,6 +72,7 @@ scm-api
 scm-sync-configuration
 scp
 script-security
+scriptler:2.9
 slack
 sloccount
 ssh-agent
